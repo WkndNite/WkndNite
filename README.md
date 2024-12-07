@@ -40,6 +40,11 @@ developing……
 - Wechat: Vanzone-fong
 - Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
 
-[![Zong Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
+</a>
+
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
