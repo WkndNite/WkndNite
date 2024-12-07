@@ -1,10 +1,82 @@
 # Hi there 👋, I'm WkndNite
 
-<!-- 简单的文字滚动动画 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100vw" height="100vh" viewBox="0 0 100 100">
+  <!-- Particle Effect -->
+  <g id="particles">
+    <circle cx="10" cy="10" r="1" fill="url(#grad1)" opacity="0" class="particle"/>
+    <circle cx="30" cy="30" r="1" fill="url(#grad1)" opacity="0" class="particle"/>
+    <circle cx="50" cy="50" r="1" fill="url(#grad1)" opacity="0" class="particle"/>
+    <circle cx="70" cy="70" r="1" fill="url(#grad1)" opacity="0" class="particle"/>
+    <circle cx="90" cy="90" r="1" fill="url(#grad1)" opacity="0" class="particle"/>
+  </g>
+
+  <!-- Gradient for Particle Colors -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6ec7; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff00d4; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Text -->
+  <text x="50%" y="50%" text-anchor="middle" font-size="10" fill="#ff6ec7" opacity="0" class="intro-text">Hi, I'm WkndNite!</text>
+
+  <style>
+    .particle {
+      animation: move 3s infinite;
+    }
+
+    .intro-text {
+      font-family: 'Arial', sans-serif;
+      animation: fadeIn 3s forwards, scaleIn 2s forwards;
+      animation-delay: 3s;
+    }
+
+    @keyframes move {
+      0% {
+        transform: translate(0, 0);
+      }
+      25% {
+        transform: translate(5px, -5px);
+      }
+      50% {
+        transform: translate(10px, 0);
+      }
+      75% {
+        transform: translate(5px, 5px);
+      }
+      100% {
+        transform: translate(0, 0);
+      }
+    }
+
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes scaleIn {
+      0% {
+        transform: scale(0) rotate(0deg);
+      }
+      50% {
+        transform: scale(1.2) rotate(360deg);
+      }
+      100% {
+        transform: scale(1) rotate(0deg);
+      }
+    }
+  </style>
+</svg>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-🚀%20Let's%20connect%20and%20explore-%23000000?style=for-the-badge&logo=github&logoColor=white&color=blue&text-color=white" alt="Welcome to my GitHub Profile! 🚀 Let's connect and explore">
 </p>
-
 
 I'm a passionate Frontend Developer 🌱, currently working with **Vue.js**, **Astro-Starlight**, and obsessed with **performance optimization** and **clean code**. When I'm not building cool stuff, I'm tinkering with algorithms, learning new technologies, or maybe playing around with something completely random. 💻✨
 
