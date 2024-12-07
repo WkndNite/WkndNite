@@ -43,13 +43,13 @@ developing……
 - Wechat: Vanzone-fong
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
+  <img src="https://github-readme-stats-iota-seven-85.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
+  <img src="https://github-readme-stats-iota-seven-85.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact" alt="Harlok's WakaTime stats" style="width: 100%;">
+  <img src="https://github-readme-stats-iota-seven-85.vercel.app/api/wakatime?username=WkndNite&layout=compact" alt="Harlok's WakaTime stats" style="width: 100%;">
 </a>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
