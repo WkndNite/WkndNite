@@ -11,7 +11,6 @@ I'm a passionate Frontend Developer 🌱, currently working with **Vue.js**, **A
 - 📑 Developing projects to **enrich my resume** and showcase my skills through practical development experience.
 - 🧠 Working on an **innovative project**: "Undergraduate Course Management System" at **Harbin Institute of Technology, Weihai** (HITWH).
 
-### 🛠️ Technologies & Tools I love:
 
 ### 🛠️ Technologies & Tools I love:
 
