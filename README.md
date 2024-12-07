@@ -1,6 +1,10 @@
 # Hi there 👋, I'm WkndNite
 
-Welcome to my GitHub profile! 🚀
+<!-- 简单的文字滚动动画 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-🚀%20Let's%20connect%20and%20explore-%23000000?style=for-the-badge&logo=github&logoColor=white&color=blue&text-color=white" alt="Welcome to my GitHub Profile! 🚀 Let's connect and explore">
+</p>
+
 
 I'm a passionate Frontend Developer 🌱, currently working with **Vue.js**, **Astro-Starlight**, and obsessed with **performance optimization** and **clean code**. When I'm not building cool stuff, I'm tinkering with algorithms, learning new technologies, or maybe playing around with something completely random. 💻✨
 
@@ -40,11 +44,8 @@ developing……
 - Wechat: Vanzone-fong
 - Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WkndNite&show_icons=true&theme=vue)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
