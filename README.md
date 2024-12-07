@@ -42,21 +42,13 @@ developing……
 - Email: [WkndNite@126.com](mailto:WkndNite@126.com)
 - Wechat: Vanzone-fong
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WkndNite&show_icons=true&theme=vue" height="100" alt="Zong Fan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" height="100" alt="Most Used Languages" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
+</a>
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact" height="350" alt="Wakatime Stats" />
-  </a>
-</div>
-
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
