@@ -44,16 +44,16 @@ developing……
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=WkndNite&show_icons=true&theme=vue" height="150" alt="Zong Fan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WkndNite&show_icons=true&theme=vue" height="100" alt="Zong Fan's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" height="150" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" height="100" alt="Most Used Languages" />
   </a>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact" height="150" alt="Wakatime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact" height="350" alt="Wakatime Stats" />
   </a>
 </div>
 
