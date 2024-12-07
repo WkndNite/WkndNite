@@ -42,7 +42,6 @@ developing……
 - Email: [WkndNite@126.com](mailto:WkndNite@126.com)
 
 <div style="text-align: center;">
-  <img src="wechat.jpg" alt="WkndNite-wechat" />
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
