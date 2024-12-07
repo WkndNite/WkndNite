@@ -40,5 +40,6 @@ developing……
 - Wechat: Vanzone-fong
 - Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkndnite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
