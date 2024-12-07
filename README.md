@@ -48,7 +48,8 @@ developing……
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact" alt="Top Languages" style="height: 200px;">
 </a>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact" alt="Harlok's WakaTime stats" style="width: 100%;">
+</a>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
