@@ -40,7 +40,10 @@ developing……
 
 - Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
 - Email: [WkndNite@126.com](mailto:WkndNite@126.com)
-- Wechat: Vanzone-fong
+
+<div style="text-align: center;">
+  <img src="wechat.jpg" alt="WkndNite-wechat" />
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-iota-seven-85.vercel.app/api?username=wkndnite&show_icons=true" alt="Zong Fan's GitHub stats" style="height: 200px;">
