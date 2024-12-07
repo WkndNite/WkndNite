@@ -11,22 +11,18 @@ I'm a passionate Frontend Developer 🌱, currently working with **Vue.js**, **A
 - 📑 Developing projects to **enrich my resume** and showcase my skills through practical development experience.
 - 🧠 Working on an **innovative project**: "Undergraduate Course Management System" at **Harbin Institute of Technology, Weihai** (HITWH).
 
-
 ### 🛠️ Technologies & Tools I love:
 
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white) 
-&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) 
-&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) 
-&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=typescript&logoColor=white) 
-&nbsp; ![Sass](https://img.shields.io/badge/Sass-%23C69?style=flat-square&logo=sass&logoColor=white) 
-&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwindcss&logoColor=white) 
-&nbsp; ![Astro](https://img.shields.io/badge/Astro-%2304A5E5?style=flat-square&logo=astro&logoColor=white) 
-&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white) 
-&nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
-&nbsp; ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=black) 
-&nbsp; ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
-
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)
+&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+&nbsp; ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=typescript&logoColor=white)
+&nbsp; ![Sass](https://img.shields.io/badge/Sass-%23C69?style=flat-square&logo=sass&logoColor=white)
+&nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+&nbsp; ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+&nbsp; ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 ### 🎯 Current Focus:
 
@@ -40,7 +36,9 @@ developing……
 
 ### 📫 Connect with me:
 
-- Email: [Your Email](#)
-- Wechat: [Your Tech Blog](#)
+- Email: [WkndNite@126.com](mailto:WkndNite@126.com)
+- Wechat: Vanzone-fong
+- Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
+
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
