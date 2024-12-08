@@ -47,7 +47,7 @@ developing……
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-iota-seven-85.vercel.app/api?username=wkndnite&show_icons=true&cache_second=0" alt="Zong Fan's GitHub stats" style="height: 200px;">
+  <img src="https://github-readme-stats-iota-seven-85.vercel.app/api?username=wkndnite&show_icons=true&cache_second=0&theme=vue" alt="Zong Fan's GitHub stats" style="height: 200px;">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-iota-seven-85.vercel.app/api/top-langs/?username=wkndnite&layout=compact&cache_second=0" alt="Top Languages" style="height: 200px;">
