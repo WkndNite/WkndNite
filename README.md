@@ -52,7 +52,7 @@ developing……
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkndnite&layout=compact&cache_seconds=0" alt="Top Languages" style="height: 200px;">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-statsvercel.app/api/wakatime?username=WkndNite&layout=compact&cache_seconds=0" alt="Zong Fan's WakaTime stats" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WkndNite&layout=compact&cache_seconds=0" alt="Zong Fan's WakaTime stats" style="width: 100%;">
 </a>
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
