@@ -38,7 +38,7 @@ developing……
 
 ## 📫 Connect with me
 
-- Personal Blog: [wkndnite-tech.vercel.app](https://wkndnite-tech.vercel.app)
+- Personal Blog: [blog.wkndnite-tech.cn](https://blog.wkndnite-tech.cn)
 - Email: [WkndNite@126.com](mailto:WkndNite@126.com)
 
 <div style="text-align: center;">
