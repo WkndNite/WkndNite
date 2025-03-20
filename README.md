@@ -4,11 +4,11 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub%20Profile!-🚀%20Let's%20connect%20and%20explore-%23000000?style=for-the-badge&logo=github&logoColor=white&color=blue&text-color=white" alt="Welcome to my GitHub Profile! 🚀 Let's connect and explore">
 </p>
 
-I'm a passionate Frontend Developer 🌱, currently working with **Vue.js**, **React**, and obsessed with **performance optimization** and **clean code**. When I'm not building cool stuff, I'm tinkering with algorithms, learning new technologies, or maybe playing around with something completely random. 💻✨
+I'm a passionate Frontend Developer 🌱, currently working with **React/Vue**, and obsessed with **performance optimization** and **clean code**. When I'm not building cool stuff, I'm tinkering with algorithms, learning new technologies, or maybe playing around with something completely random. 💻✨
 
 ## 🌟 What I'm working on
 
-- 🖥️ Building websites with **Vue.js** or **React.js** and developing my own technical sharing website with **VitePress**.
+- 🖥️ Building websites with **React/Vue** and developing my own technical sharing website with **VitePress**.
 - 🚀 Contributing to some projects and continuously learning best practices in **web performance**, **state management**, and **UI design**.
 - 📑 Developing projects to **enrich my resume** and showcase my skills through practical development experience.
 - 🧠 Working on an **innovative project**: "Undergraduate Course Management System" at **Harbin Institute of Technology, Weihai** (HITWH).
