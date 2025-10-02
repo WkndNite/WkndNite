@@ -8,8 +8,6 @@ I'm a **Frontend Developer** 🌱 working with **React/Vue**, passionate about *
 
 When I'm not building cool stuff, I'm exploring **algorithms**, **new technologies**, or random experiments. 💻✨
 
-
-
 ## 🌟 What I'm Working On & Focus
 - 🚀 Exploring best practices in **web performance**, **state management**, and **UI design**.
 - 🖥️ Building websites with **React/Vue** and my own technical sharing site with **VitePress**.
@@ -17,31 +15,71 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
 - 📚 Learning **Data Structures & Algorithms** to sharpen problem-solving.
 - 🎨 Enhancing my **personal blog** with better UI/UX and technical content.
 
-
-
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-%23C69?style=flat-square&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-%234D3C42?style=flat-square&logo=less&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td align="left"><strong>Frontend</strong></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="80" alt=""/>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="left"><strong>Backend</strong></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" alt=""/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><strong>DevOps</strong></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt=""/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" alt=""/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left"><strong>To Learn</strong></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" width="80" alt="" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="80" alt="" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Connect with Me
-- Blog: [blog.wkndnite-tech.cn](https://blog.wkndnite-tech.cn)
-- Email: [WkndNite@126.com](mailto:WkndNite@126.com)
 
-
+<p align="center">
+  <a href="https://blog.wkndnite-tech.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-wkndnite--tech.cn-4FC08D?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="mailto:WkndNite@126.com">
+    <img src="https://img.shields.io/badge/Email-WkndNite@126.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <table>
   <tr>
@@ -70,7 +108,5 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
     </td>
   </tr>
 </table>
-
-
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
