@@ -8,7 +8,7 @@ I'm a **Frontend Developer** 🌱 working with **React/Vue**, passionate about *
 
 When I'm not building cool stuff, I'm exploring **algorithms**, **new technologies**, or random experiments. 💻✨
 
----
+
 
 ## 🌟 What I'm Working On & Focus
 - 🚀 Exploring best practices in **web performance**, **state management**, and **UI design**.
@@ -17,7 +17,7 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
 - 📚 Learning **Data Structures & Algorithms** to sharpen problem-solving.
 - 🎨 Enhancing my **personal blog** with better UI/UX and technical content.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -35,13 +35,13 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
----
+
 
 ## 📫 Connect with Me
 - Blog: [blog.wkndnite-tech.cn](https://blog.wkndnite-tech.cn)
 - Email: [WkndNite@126.com](mailto:WkndNite@126.com)
 
----
+
 
 <table>
   <tr>
@@ -71,6 +71,6 @@ When I'm not building cool stuff, I'm exploring **algorithms**, **new technologi
   </tr>
 </table>
 
----
+
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
